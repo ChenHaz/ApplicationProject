@@ -33,7 +33,7 @@ Welcome to the Cake Shop Web Application project! This project is a web applicat
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/cake-shop-web-app.git`
+1. Clone the repository: `git clone https://github.com/chenB-Y/cake-shop-web-app.git`
 2. Install dependencies: `npm install`
 3. Set up your MongoDB connection string in the configuration files.
 4. Obtain API keys for Facebook, Bing Map, and Google Chart, and add them to the configuration files.
