@@ -2,6 +2,9 @@
 
 Welcome to the Cake Shop Web Application project! This project is a web application for a cake shop built using JavaScript, HTML, CSS, Express in Node.js for the server, and MongoDB as the database. The project follows the MVC (Model-View-Controller) architectural pattern to organize its components and functionalities.
 
+![image](https://github.com/chenB-Y/ApplicationProject/assets/129218828/b0b8f284-4dba-4ed8-8624-b55efbc24ac5)
+
+
 ## Features
 
 - **User Authentication:** The application provides a secure login system that checks user credentials stored in MongoDB using hashed passwords. A session cookie is used to maintain user sessions.
